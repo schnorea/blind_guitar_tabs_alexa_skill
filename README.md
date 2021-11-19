@@ -9,7 +9,7 @@ Knowing some folks with the degenerative eye disease macular degeneration and I 
 Adding a feature to a web based tabs site interface or to Alexa to speak the tablature and perhaps to control the playback of the tabs would be really useful.
 
 Think an Alexa like skill - Here is a example dialog
-```
+
 User: "Alexa, ask Ultimate Guitar (just saying they have most of the backend for this) to play bass line of Let's Groove by Earth, Wind and Fire."
 
 Alexa: "Let's Groove by Earth, Wind and Fire, bass tabs on Ultimate Guitar"
@@ -47,4 +47,3 @@ User: "Accompany with guitar and drums"
 Alexa: "ping"
 
 User: "Adjust speed to 1/2 and start"
-```
