@@ -18,7 +18,9 @@ Alexa: "Would you like accompaniment?"
 
 User: "just Drums and bass tabs"
 
-Alexa: "A note here if tabs are requested the tempo of the music will be decreased to allow their annunciation.  When tabs are remove tempo will be increased to desired level. If you would not like to hear this note again say "Remove, tab note""
+Alexa: "A note here if tabs are requested the tempo of the music will be decreased to allow their annunciation.  When tabs are removed tempo will be increased to desired level. If you would not like to hear this note again say "Remove, tab note""
+
+User: "Start"
 
 Alexa with beat or measure sounds: " boom,boom,boom, E0, E3, E5, E3, E2, A2,A0,A2,E0...."
 
@@ -34,7 +36,7 @@ User: "Stop, what parts can I loop"
 
 Alexa: "For this song you can loop, verse, bridge and outro"
 
-User: "Loop bridge"
+User: "Loop bridge, Start"
 
 Alexa with beat or measure sounds: " boom,boom,boom, D7, D7, D8, D9, A5,A6,A7,A7...."
 
@@ -46,4 +48,6 @@ User: "Accompany with guitar and drums"
 
 Alexa: "ping"
 
-User: "Adjust speed to 1/2 and start"
+User: "Adjust speed to 1/2 and Start"
+
+...
